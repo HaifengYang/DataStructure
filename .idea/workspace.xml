@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0730e316-413b-44ee-b59a-8f9b8887542e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c2/AbstractProgression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c2/ArithmethicProgression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c2/FibonacciProgression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c2/GeometricProgression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c2/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c31/entity/GameEntry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c31/entity/ScoreBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/out/production/Data/com/yang/c31/test/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c2/AbstractProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c2/ArithmethicProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c2/FibonacciProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c2/GeometricProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c2/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c31/entity/GameEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c31/entity/ScoreBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStucture/src/com/yang/c31/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/complete/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/LICENSE.code.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/LICENSE.writing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/README.adoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/src/main/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/book/src/test/java/com/example/routingandfilteringbook/BookApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/src/main/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/src/main/java/com/example/routingandfilteringgateway/filters/pre/SimpleFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gateway/src/test/java/com/example/routingandfilteringgateway/GatewayApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/complete/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/src/main/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/book/src/test/java/com/example/routingandfilteringbook/RoutingAndFilteringBookApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/src/main/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gateway/src/test/java/com/example/routingandfilteringgateway/RoutingAndFilteringGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/initial/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/gs-routing-and-filtering-master/test/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/arrs/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/arrs/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/numbers/LastWordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/numbers/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/numbers/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/numbers/Summary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gs-routing-and-filtering-master/nowcode/src/com/company/strings/Beauty.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rf3Z4fkUy9nRnNHnUKV2wyn7cY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DataStucture" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.c31.test.Test" />
+      <module name="Data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.c31.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yang.c2.test.Test" />
+      <module name="Data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yang.c2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0730e316-413b-44ee-b59a-8f9b8887542e" name="Default Changelist" comment="" />
+      <created>1619353368641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619353368641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
